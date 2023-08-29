@@ -3,11 +3,11 @@
 This repository contains a data science project that focuses on analyzing Walmart sales data using Python's pandas, matplotlib, and seaborn libraries. The project is presented in Jupyter Notebook format.
 
 **Table of Contents:**
-*Introduction
-*Installation
-*Usage
-*Project Structure
-*Final Report
+* Introduction
+* Installation
+* Usage
+* Project Structure
+* Final Report
 
 **Introduction:**
 The Walmart Analysis Data Science Project is designed to explore and visualize sales data from Walmart stores. It utilizes the power of pandas, matplotlib, and seaborn to clean, process, and analyze the provided CSV files. The project is presented in Jupyter Notebook format, making it easy to follow along and understand the analysis process.
