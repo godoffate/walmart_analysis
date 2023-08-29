@@ -49,7 +49,7 @@ The project structure is organized as follows:
 *output/: Directory for storing generated outputs (plots, graphs, etc.).
 *project_logo.png: Logo image of the project.
 
-**Final Report:**
+**Final Report of the project you get is:**
 1) Dept 1 is highest unemployment
 2) Dept 43 is lowest unemployment
 3) Type c stores are smaller in size, type a is larger in size
